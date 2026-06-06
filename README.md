@@ -115,7 +115,7 @@ The application displays:
 
 ## ECS Cluster
 
-![ECS Cluster](screenshots/ecs-cluster.png)
+![ECS Cluster](screenshots/ecs.png)
 
 ---
 
