@@ -1,5 +1,6 @@
 # 🚀 AWS ECS Fargate Deployment Project
 
+
 ## 📌 Project Overview
 
 This project demonstrates deployment of a containerized Flask web application using AWS cloud services.
@@ -104,6 +105,23 @@ The application displays:
 * Technology stack
 
 ---
+# 📸 Screenshots
+
+## Application UI
+
+![Application Screenshot](screenshots/app.png)
+
+---
+
+## ECS Cluster
+
+![ECS Cluster](screenshots/ecs-cluster.png)
+
+---
+
+## Target Group Health Check
+
+![Target Group](screenshots/target-group.png)
 
 # 👩‍💻 Author
 
